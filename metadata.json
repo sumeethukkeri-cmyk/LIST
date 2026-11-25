@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Pro",
+  "description": "Smart to-do list and task manager with natural-language scheduling, drag-and-drop prioritization, focus timer, and productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
